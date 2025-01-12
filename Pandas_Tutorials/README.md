@@ -20,6 +20,11 @@ Generative AI relies heavily on well-prepared datasets to learn patterns and gen
 
 By mastering Pandas, you’ll gain a strong foundation in data handling—an essential step in building powerful Generative AI models.
 
+### How can you get the data file?
+- Cick on the 'stack_overflow_2019 file'
+- Click the download button on the top right corner
+- Once Downloaded extract the file and copy it to the dir of your Pandas File
+
 ---
 
 Happy Learning! 🚀
