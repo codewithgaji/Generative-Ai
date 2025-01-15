@@ -41,6 +41,23 @@ This section compares the functionality of Pandas and Python dictionaries, expla
 - **Dictionary**: Basic operations require manual coding for filtering, aggregation, or transformations.  
 - **Pandas**: Comes with built-in tools for operations like `groupby`, merging, pivoting, and statistical computations.
 
+## Filtering Data Using Pandas
+
+This repository contains a notebook demonstrating data filtering and manipulation using Pandas. It covers key techniques for efficiently cleaning and analyzing data.
+
+## Highlights
+
+- **Logical Operations**: Use of `&` and `|` for combining multiple conditions.
+- **Conditional Filtering**: Applying `<`, `>`, and other operators for filtering rows.
+- **String Replacement**: Utilizing `str.replace` to modify column values.
+- **Index Sorting**: Organizing data with `sort_index` for better readability.
+- **Row and Column Selection**: Using `.loc` and `.iloc` for precise data slicing.
+
+These methods are essential for data preprocessing and exploration in Python.
+
+Feel free to explore the notebook and adapt these techniques to your own data projects!
+
+
 
 ---
 
