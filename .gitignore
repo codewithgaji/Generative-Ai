@@ -1,0 +1,55 @@
+__pycache__/ 
+
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.virtualenv/
+
+# Editor and IDE files
+.idea/
+.vscode/
+
+# OS-specific files (Windows)
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Package distribution files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Pytest and other test results
+.coverage
+nosetests.xml
+test-results/
+
+# Docker and other container files
+docker-compose.override.yml
+.docker/
+
+# Ignore all .ipynb files
+*.ipynb
+
+# Exclude the Pandas_Tutorials folder from being ignored
+!Pandas_Tutorials/*.ipynb
+
+# Ignore specific directories
+.ipynb_checkpoints/
+__MACOSX/
+*.jpg
