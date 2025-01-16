@@ -60,6 +60,30 @@ This repository contains a notebook demonstrating data filtering and manipulatio
 - **Index Sorting**: Organizing data with `sort_index` for better readability.
 - **Row and Column Selection**: Using `.loc` and `.iloc` for precise data slicing.
 
+## Pandas Row and Column Updates
+
+This repository contains a Jupyter notebook that demonstrates how to update rows and columns in a Pandas DataFrame. It covers the use of various functions and methods, including `apply()`, `applymap()`, `map()`, `rename()`, and `replace()`, to manipulate and transform data efficiently.
+
+## Overview
+
+The notebook explains the following steps:
+
+1. **Testing with Small Data**: The methods are first tested on a small dataset created using Python's dictionary.
+2. **Converting to DataFrame**: The dictionary is then converted into a Pandas DataFrame to perform more complex operations.
+3. **Key Functions Explained**:
+   - **`apply()`**: Apply a function along a specific axis (rows or columns) of the DataFrame.
+   - **`applymap()`**: Apply a function element-wise to every value in the DataFrame.
+   - **`map()`**: Transform elements in a Pandas Series by applying a function element-wise.
+   - **`rename()`**: Rename the labels of the rows and columns in the DataFrame.
+   - **`replace()`**: Replace specific values in the DataFrame with new values.
+
+## Usage
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/codewithgaji/Generative-Ai.git
+
+
 These methods are essential for data preprocessing and exploration in Python.
 
 Feel free to explore the notebook and adapt these techniques to your own data projects!
