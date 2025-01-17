@@ -43,8 +43,7 @@ test-results/
 docker-compose.override.yml
 .docker/
 
-# Ignore all .ipynb files
-*.ipynb
+
 
 # Exclude the Pandas_Tutorials folder from being ignored
 !Pandas_Tutorials/*.ipynb
