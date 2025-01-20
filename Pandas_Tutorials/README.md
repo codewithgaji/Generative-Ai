@@ -125,6 +125,31 @@ With `.drop()`, you can also delete columns by specifying their names. This meth
 - The `.drop()` method works similarly; it does not modify the original DataFrame unless `inplace=True` is specified.
 - The `.append()` method is deprecated in Pandas 2.0. Instead, use `pd.concat()` for appending.
 
+
+## Sorting Data in Pandas
+
+This section provides a summary of various Pandas methods used for sorting data efficiently:
+
+### 1. `sort_index()`
+- Sorts data based on the index labels.
+- Can be applied to rows (`axis=0`) or columns (`axis=1`).
+- Includes options for ascending or descending order.
+
+### 2. `sort_values()`
+- Sorts data based on the values of one or more columns.
+- Offers flexibility to handle multiple columns using the `by` parameter.
+- Includes options for ascending or descending order, and for handling missing values.
+
+### 3. `.nlargest()`
+- Retrieves the top `n` largest values from a specified column.
+- Particularly useful for filtering key insights from large datasets.
+
+### 4. `.nsmallest()`
+- Retrieves the top `n` smallest values from a specified column.
+- Helps identify the lowest-ranking data points for analysis.
+
+These methods enhance the process of organizing and analyzing data, making it easier to derive meaningful insights. Check the accompanying notebook for detailed examples and usage!
+
 ---
 
 ## Learn More
