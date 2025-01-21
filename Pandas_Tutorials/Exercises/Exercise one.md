@@ -35,13 +35,3 @@ Once you have tried the exercises yourself, you can check the solution by follow
 [**Check the solution here**](https://tinyurl.com/Sorting-solution)
 
 ---
-
-## Data Files
-
-The dataset used in this exercise can be found in the `data` folder. To load the data into your Colab environment, follow the instructions below:
-
-### Loading Data into Colab:
-1. Mount your Google Drive:
-   ```python
-   from google.colab import drive
-   drive.mount('/content/drive')
