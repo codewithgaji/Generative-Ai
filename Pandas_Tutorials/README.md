@@ -150,6 +150,25 @@ This section provides a summary of various Pandas methods used for sorting data 
 
 These methods enhance the process of organizing and analyzing data, making it easier to derive meaningful insights. Check the accompanying notebook for detailed examples and usage!
 
+## Grouping and Aggregating in Pandas
+
+Grouping and aggregating are powerful tools in pandas for summarizing and analyzing data.
+
+### Grouping
+- Use `.groupby()` to split the data into groups based on specific criteria or columns.
+- Allows operations to be performed on each group independently.
+
+### Aggregating
+- Apply aggregation functions like `.sum()`, `.mean()`, `.count()`, `.min()`, `.max()`, and more to summarize grouped data.
+- Supports custom aggregation functions for tailored summaries.
+
+### Key Features
+- Combine multiple aggregation operations using `.agg()` for detailed analysis.
+- Leverage `groupby()` with multiple keys to analyze complex relationships in data.
+
+These tools make it easy to uncover insights and patterns in structured datasets.
+
+
 ---
 
 ## Learn More
