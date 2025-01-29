@@ -169,6 +169,10 @@ Grouping and aggregating are powerful tools in pandas for summarizing and analyz
 These tools make it easy to uncover insights and patterns in structured datasets.
 
 
+## Exercises
+- After learning about arrays, try to do the exercises in the exercises folder, has this would allow you to be able to think critically.
+- After you've tried solving a particular exercise, click on the solution link and compare your answers to that of the solution notebook.
+
 ---
 
 ## Learn More
