@@ -15,7 +15,7 @@ By completing this exercise, you will:
 
 ## Check the Solution
 You can find the solution to this exercise on Google Colab:
-[Check the solution here](#)
+[Check the solution here](https://colab.research.google.com/drive/1yz1my8CJoIE9iBWI5oq4D74c_IZEI3IE?usp=sharing)
 
 ## Next Steps
 Try extracting and modifying different sections of matrices with varying sizes to strengthen your NumPy skills!
