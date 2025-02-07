@@ -30,8 +30,16 @@ More notebooks and resources will be added as I progress in my learning journey.
 
 ---
 
+
 ## Contribution
 If you're also learning PyTorch and want to collaborate, feel free to fork this repository and submit a pull request. Suggestions and improvements are always welcome!
+
+## Final Thoughts
+Learning is a gradual process. You don’t need to know everything at once. Focus on understanding the basics first, and revisit concepts as needed.
+
+**The goal is to have a solid foundation so you can move forward with learning more advanced libraries and concepts in Generative AI.** Even I constantly revisit concepts to refresh my memory. Take it slow, and remember: progress is better than perfection.
+
+Happy coding! 😊
 
 ---
 
