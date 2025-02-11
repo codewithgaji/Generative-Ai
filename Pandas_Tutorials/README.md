@@ -186,7 +186,7 @@ Happy coding! 😊
 ## Learn More
 For more operations on DataFrames, visit the [Pandas Documentation](https://pandas.pydata.org/docs/).
 
-- You can as well try out this playlist to understand Numpy better. Click [here](https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&si=nOoF3a7ZAqw9tTZM)
+- You can as well try out this playlist to understand Pandas better. Click [here](https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&si=nOoF3a7ZAqw9tTZM)
 
 Happy coding! 🚀
 
