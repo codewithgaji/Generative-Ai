@@ -28,6 +28,8 @@ This folder contains the following resources:
 
 More notebooks and resources will be added as I progress in my learning journey.
 
+- You can as well try out this playlist to understand Pytorch better. Click [here](https://youtube.com/playlist?list=PLCC34OHNcOtpcgR9LEYSdi9r7XIbpkpK1&si=_aI9DlOAInl-Ad-p)
+
 ---
 
 
