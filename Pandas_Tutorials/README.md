@@ -52,13 +52,6 @@ This section compares the functionality of Pandas and Python dictionaries, expla
 
 This repository contains a notebook demonstrating data filtering and manipulation using Pandas. It covers key techniques for efficiently cleaning and analyzing data.
 
-## Highlights
-
-- **Logical Operations**: Use of `&` and `|` for combining multiple conditions.
-- **Conditional Filtering**: Applying `<`, `>`, and other operators for filtering rows.
-- **String Replacement**: Utilizing `str.replace` to modify column values.
-- **Index Sorting**: Organizing data with `sort_index` for better readability.
-- **Row and Column Selection**: Using `.loc` and `.iloc` for precise data slicing.
 
 ## Pandas Row and Column Updates
 
