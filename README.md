@@ -43,10 +43,6 @@ Here are the key tools and topics you will find in this repository:
 - **NumPy**: For numerical computations and handling multi-dimensional arrays.
 - **Scikit-learn**: For machine learning algorithms and data preprocessing.
 
-## How to Use This Repository
-- Check out the individual Jupyter Notebooks for each topic to learn concepts step-by-step.
-- Follow along with the code and explanations to understand how each tool contributes to AI development.
-- Experiment with the code to deepen your understanding.
 
 ## Final Thoughts
 Learning is a gradual process. You don’t need to know everything at once. Focus on understanding the basics first, and revisit concepts as needed.
