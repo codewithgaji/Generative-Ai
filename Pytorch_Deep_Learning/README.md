@@ -16,7 +16,7 @@ This folder covers the foundational skills and concepts required to work with Py
 - **Simple Neural Networks**: Understand how to build, train, and evaluate basic neural networks.
 - **Operations on Tensors**: Perform mathematical and logical operations on tensors.
 - **Model Training**: Explore the process of training neural networks, including backpropagation and optimization.
-- **Future Topics (Coming Soon)**: Dive deeper into advanced topics such as Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and custom loss functions.
+
 
 ---
 
