@@ -36,12 +36,6 @@ You can install NumPy using `pip install numpy` and import it into your Python p
 ## Working with Multidimensional Arrays
 Explore methods for stacking arrays and manipulating data in higher dimensions to suit your project needs.
 
-## Exercises
-- After learning about arrays, try to do the exercises in the exercises folder, has this would allow you to be able to think critically.
-- After you've tried solving a particular exercise, click on the solution link and compare your answers to that of the solution notebook.
-
-- You can as well try out this playlist to understand Numpy better. Click [here](https://youtu.be/QUT1VHiLmmI?si=1LmaJX6sToGA4Udb)
----
 
 ## Final Thoughts
 Learning NumPy is a gradual process. You don’t need to know everything at once. Focus on understanding the basics first, and revisit concepts as needed.
