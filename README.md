@@ -59,5 +59,11 @@ Happy coding! 😊
 
 
 
+## Contributions
+If you're also on a similar learning journey and would like to contribute, feel free to submit a pull request. Collaboration is always welcome!
+
+---
+
+Join me in exploring the fascinating world of Generative AI and the tools that make it possible! 💡
 
 
